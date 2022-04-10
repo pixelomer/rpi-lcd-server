@@ -1,0 +1,5 @@
+dist
+deps/node-vcgencmd/build
+**/.DS_Store
+node_modules
+package-lock.json
